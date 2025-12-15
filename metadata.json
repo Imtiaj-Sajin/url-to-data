@@ -1,0 +1,5 @@
+{
+  "name": "SourceSleuth",
+  "description": "A developer tool to fetch, view, and analyze the raw source code of any public URL using a CORS proxy and Gemini AI for code insights.",
+  "requestFramePermissions": []
+}
